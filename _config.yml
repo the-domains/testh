@@ -12,5 +12,9 @@ color:
     - '#E376B7'
 layout_spectrum: 0.16350071737542748
 name: test123456789
+navigation:
+  - name: WirtschaftsWoche
+    url: wiwo.de
+    type: external
 title: 'Hello, I''m here'
 description: Something really deep and clever here
